@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Tiny = () => {
-  return <div>Updated Tiny.</div>;
+  return <div>Tiny</div>;
 };
 
 export default Tiny;
